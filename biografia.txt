@@ -8,3 +8,4 @@ Ahora es un Mentor super capaz.
 Los alumnos lo quieren mucho.
 Hace poco que inició las clases.
 Aprendió Svelte hace poco.
+Todavía no sabe mucho sobre Devops.
