@@ -6,3 +6,5 @@ Comenzó a trabajar en Rolling.
 
 Ahora es un Mentor super capaz.
 Los alumnos lo quieren mucho.
+
+Aprendió Svelte hace poco.
